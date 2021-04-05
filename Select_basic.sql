@@ -55,7 +55,7 @@ SELECT NAME FROM city WHERE countrycode = 'JPN';
 ---------------+---------------
  ID	           | NUMBER
 ---------------+---------------
- CITY	         | VARCHAR2(21)
+ CITY          | VARCHAR2(21)
 ---------------+---------------
  STATE         | VARCHAR2(2)
 ---------------+---------------
