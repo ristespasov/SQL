@@ -4,9 +4,9 @@
 ---------------+---------------
      Fiel      |     Type
 ---------------+---------------
- ID	          | NUMBER
+ ID	           | NUMBER
 ---------------+---------------
- NAME	     | VARCHAR2(17)
+ NAME	         | VARCHAR2(17)
 ---------------+---------------
  COUNTRYCODE   | VARCHAR2(3)
 ---------------+---------------
@@ -53,13 +53,13 @@ SELECT NAME FROM city WHERE countrycode = 'JPN';
 ---------------+---------------
      Field     |     Type
 ---------------+---------------
- ID	          | NUMBER
+ ID	           | NUMBER
 ---------------+---------------
- CITY	     | VARCHAR2(21)
+ CITY	         | VARCHAR2(21)
 ---------------+---------------
  STATE         | VARCHAR2(2)
 ---------------+---------------
- LAT_N	     | NUMBER
+ LAT_N	       | NUMBER
 ---------------+---------------
  LONG_W        | NUMBER
 ---------------+---------------
@@ -131,9 +131,9 @@ SELECT DISTINCT city FROM station WHERE city REGEXP '^[^aeiou].*[^aeiou]$';
 ---------------+---------------
      Field     |     Type
 ---------------+---------------
- ID	          | INTEGER
+ ID	           | INTEGER
 ---------------+---------------
- NAME	     | STRING
+ NAME	         | STRING
 ---------------+---------------
  MARKS         | INTEGER
 ---------------+---------------
@@ -154,7 +154,7 @@ SELECT name FROM students WHERE marks > 75 ORDER BY RIGHT(Name, 3), ID;
 ---------------+---------------
  EMPLOYEE_ID   | INTEGER
 ---------------+---------------
- NAME	     | STRING
+ NAME	         | STRING
 ---------------+---------------
  MONTHS        | INTEGER
 ---------------+---------------
