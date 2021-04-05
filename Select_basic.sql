@@ -131,9 +131,9 @@ SELECT DISTINCT city FROM station WHERE city REGEXP '^[^aeiou].*[^aeiou]$';
 ---------------+---------------
      Field     |     Type
 ---------------+---------------
- ID	           | INTEGER
+ ID            | INTEGER
 ---------------+---------------
- NAME	         | STRING
+ NAME          | STRING
 ---------------+---------------
  MARKS         | INTEGER
 ---------------+---------------
@@ -154,7 +154,7 @@ SELECT name FROM students WHERE marks > 75 ORDER BY RIGHT(Name, 3), ID;
 ---------------+---------------
  EMPLOYEE_ID   | INTEGER
 ---------------+---------------
- NAME	         | STRING
+ NAME          | STRING
 ---------------+---------------
  MONTHS        | INTEGER
 ---------------+---------------
