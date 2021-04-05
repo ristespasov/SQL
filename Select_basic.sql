@@ -53,7 +53,7 @@ SELECT NAME FROM city WHERE countrycode = 'JPN';
 ---------------+---------------
      Field     |     Type
 ---------------+---------------
- ID	           | NUMBER
+ ID            | NUMBER
 ---------------+---------------
  CITY          | VARCHAR2(21)
 ---------------+---------------
