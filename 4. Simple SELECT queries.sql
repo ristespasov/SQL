@@ -1,7 +1,7 @@
 /*
 Table: north_american_cities
 
-| City                 | Country         | Population | Latitude  | Longitude   |
+| city                 | country         | population | latitude  | longitude   |
 |----------------------|-----------------|------------|-----------|-------------|
 | Guadalajara          | Mexico          | 1,500,800  | 20.659699 | -103.349609 |
 | Toronto              | Canada          | 2,795,060  | 43.653226 | -79.383184  |

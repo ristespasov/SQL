@@ -1,7 +1,7 @@
 /*
 Table: movies
 
-| ID  | Title               | Director       | Year | Length (minutes) |
+| id  | title               | tirector       | year | length_minutes   |
 | --- | ------------------- | -------------- | ---- | ---------------- |
 | 1   | Toy Story           | John Lasseter  | 1995 | 81               |
 | 2   | A Bug's Life        | John Lasseter  | 1998 | 95               |
