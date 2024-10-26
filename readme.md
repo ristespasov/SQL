@@ -1,4 +1,4 @@
-Table
+Table: Movies
 
 | ID  | Title               | Director       | Year | Length (minutes) |
 | --- | ------------------- | -------------- | ---- | ---------------- |
